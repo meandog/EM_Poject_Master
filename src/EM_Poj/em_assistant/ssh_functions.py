@@ -1,9 +1,7 @@
 # This file is to perform all SSH related activities
 import paramiko
-
 # For testing to be removed
-
-
+from private import *
 
 # Configs Keys
 config_key = ['alg_defs', 'b2bua2', 'cos_defs', 'cos_gred_defs', 'dsp', 'evdo', 'fw_defs', 'intf', 'ip', 'nat_defs',
